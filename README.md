@@ -3,9 +3,9 @@
 - mongodb
 
 Install
-$ git clone https://github.com/rishabh2055/AddecoAssignment.git
-$ npm install
+- $ git clone https://github.com/rishabh2055/AddecoAssignment.git
+- run npm install inside server/node folder
 
-Then node server.js
+- Then node server.js
 
-Then visit http://localhost:3000/
+- Then visit http://localhost:3000/
