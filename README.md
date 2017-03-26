@@ -3,5 +3,9 @@
 - mongodb
 
 Install
-$ git clone git://github.com/madhums/node-express-mongoose-demo.git
+$ git clone https://github.com/rishabh2055/AddecoAssignment.git
 $ npm install
+
+Then node server.js
+
+Then visit http://localhost:3000/
